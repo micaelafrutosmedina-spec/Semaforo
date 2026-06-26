@@ -1,4 +1,5 @@
 # 🔊 Proyecto 1.º Año – Robótica Estática
+![Uploading image.png…]()
 
 ## Nombre del Proyecto
 
